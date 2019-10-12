@@ -11,3 +11,5 @@ Instructions -
 About A* Algorithm:
 
 It is one of best algorithm used in path finding and graph traversals. It finds the approximate distance with the help of heuristics. The different types of heuristics used are Manhattan Distance Heuristic, Diagonal Distance Heuristic, etc. This project uses the Manhattan Distance Heuristic.
+
+The A* Algorithm has been added for reference as Algo.txt
